@@ -39,9 +39,11 @@ Make your visit fun and interactive! Click the stickers, check the stats, and ex
 | [Weather App](https://github.com/Sreoshh/Weather-App) | <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="40"> | Real-time weather, beautiful UI. |
 | [Quote Generator](https://github.com/Sreoshh/Quote-Generator) | <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="40"> | Get inspired with random quotes. |
 | [Quiz Game](https://github.com/Sreoshh/Quiz-Game) | <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" height="40"> | Test your knowledge with fun quizzes. |
-[![An image of @sreoshh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreoshh)](https://holopin.io/@sreoshh)
 
 ---
+[![An image of @sreoshh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreoshh)](https://holopin.io/@sreoshh)
+
+
 
 ## 🏆 GitHub Stats
 
