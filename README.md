@@ -26,7 +26,6 @@ Make your visit fun and interactive! Click the stickers, check the stats, and ex
 
 + 💡 Always learning, always building n exploring paths to simplify complex issues.
 ! 🎂 projects up n ready to collaborate n contribute on!!!
-- 🧩 Fun fact: Do not realllyy like coding much but i anyhow have to do it to build what i love.
 
 
 ---
