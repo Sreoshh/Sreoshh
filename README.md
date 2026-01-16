@@ -34,9 +34,9 @@ Make your visit fun and interactive! Click the stickers, check the stats, and ex
 
 | Project | Preview | Description |
 |---------|---------|-------------|
-| [Weather App](https://github.com/Sreoshh/Weather-App) | <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="40"> | Real-time weather, beautiful UI. |
-| [Quote Generator](https://github.com/Sreoshh/Quote-Generator) | <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="40"> | Get inspired with random quotes. |
-| [Quiz Game](https://github.com/Sreoshh/Quiz-Game) | <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" height="40"> | Test your knowledge with fun quizzes. |
+| [AgriAlert](https://agri-alert-eta.vercel.app/) | <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="40"> | AgriAlert is a precision farming weather alert and dashboard platform designed to help farmers make informed decisions. |
+| [article-highlighter-summarizer](https://github.com/Sreoshh/article-highlighter-summarizer) | <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="40"> | A Chrome extension that highlights articles, saves selected texts of any platform. |
+| [dev-companion](https://github.com/Sreoshh/dev-companion) | <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" height="40"> | An advanced Chrome DevTools extension for frontend developers |
 
 ---
 [![An image of @sreoshh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreoshh)](https://holopin.io/@sreoshh)
