@@ -21,7 +21,7 @@ Clean, classy, and focused on what matters.
 
 ## 👨‍💻 About Me
 
-Just tryna fit in. Can do a bit of coding I guess — hence the beautifully chaotic, non-relating-abstract tech stack scattered across my profile. I build stuff, break stuff, and occasionally make stuff that actually works. 🚀
+Just tryna fit in. Can do a bit of coding I guess — hence the non-relating-abstract tech stack scattered across my profile. I build stuff, break stuff, and occasionally make stuff that actually works. 
 
 ---
 
