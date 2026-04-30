@@ -1,13 +1,11 @@
 <!--
-✨ Welcome to Sreoshii's GitHub Profile ✨
-
-Make your visit fun and interactive! Click the stickers, check the stats, and explore my projects below.
-
+✨ Welcome to Sreoshi's GitHub Profile ✨
+Clean, classy, and focused on what matters.
 -->
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2poYXhuaGgzajM4M2V1Y3h1bGkxY3VqZnMwdnFodWhlNHRpNnE5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="80" alt="Hi!"/>
-  Hi, I'm Sreoshiii! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  Hi, I'm Sreoshi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h1>
 
 <p align="center">
@@ -21,48 +19,60 @@ Make your visit fun and interactive! Click the stickers, check the stats, and ex
 
 ---
 
-## 👽 About Me
+## 👨‍💻 About Me
 
+I'm a developer passionate about building elegant solutions to complex problems. I enjoy exploring cutting-edge technologies, contributing to open source, and continuously learning.
 
-+ 💡 Always learning, always building n exploring paths to simplify complex issues.
-! 🎂 projects up n ready to collaborate n contribute on!!!
+- 🔨 Always building & exploring
+- 🚀 Focused on clean, maintainable code
+- 💬 Open to collaboration and contributions
 
+---
+
+## 🎯 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **[Dev Companion](https://github.com/Sreoshh/dev-companion)** | A powerful Chrome DevTools extension that streamlines frontend development with enhanced debugging and workflow optimization. |
+| **[Task Manager Android](https://github.com/Sreoshh/task-manager-android)** | A full-featured Android task management app with intuitive UI, real-time synchronization, and productivity-focused design. |
+| **[Chess Engine](https://github.com/Sreoshh/chess-engine)** | A sophisticated chess engine featuring AI-powered moves, strategic evaluation, and an interactive gameplay experience. |
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Preview | Description |
-|---------|---------|-------------|
-| [AgriAlert](https://agri-alert-eta.vercel.app/) | <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="40"> | AgriAlert is a precision farming weather alert and dashboard platform designed to help farmers make informed decisions. |
-| [article-highlighter-summarizer](https://github.com/Sreoshh/article-highlighter-summarizer) | <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="40"> | A Chrome extension that highlights articles, saves selected texts of any platform. |
-| [dev-companion](https://github.com/Sreoshh/dev-companion) | <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" height="40"> | An advanced Chrome DevTools extension for frontend developers |
-
----
-[![An image of @sreoshh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreoshh)](https://holopin.io/@sreoshh)
-
-
-
-## 🏆 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreoshh&show_icons=true&theme=radical" alt="Sreoshh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sreoshh&show_icons=true&theme=radical&hide_border=true" alt="Sreoshh's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreoshh&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreoshh&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
+## 🔗 Connect With Me
 
-
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/sreoshi-chakraborty-369563322)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://your-website.com)
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="your-linkedin-url">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="your-devfolio-url">
+    <img src="https://img.shields.io/badge/Devfolio-003D82?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio" />
+  </a>
+  <a href="your-devpost-url">
+    <img src="https://img.shields.io/badge/DevPost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="DevPost" />
+  </a>
+  <a href="your-leetcode-url">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="your-codechef-url">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_  
+> _"Code is like humor. When you have to explain it, it's bad."_  
 > — Cory House
-
----
