@@ -21,11 +21,7 @@ Clean, classy, and focused on what matters.
 
 ## 👨‍💻 About Me
 
-I'm a developer passionate about building elegant solutions to complex problems. I enjoy exploring cutting-edge technologies, contributing to open source, and continuously learning.
-
-- 🔨 Always building & exploring
-- 🚀 Focused on clean, maintainable code
-- 💬 Open to collaboration and contributions
+Just tryna fit in. Can do a bit of coding I guess — hence the beautifully chaotic, non-relating-abstract tech stack scattered across my profile. I build stuff, break stuff, and occasionally make stuff that actually works. 🚀
 
 ---
 
@@ -52,25 +48,24 @@ I'm a developer passionate about building elegant solutions to complex problems.
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:iamsreoshi19@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="your-linkedin-url">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="your-devfolio-url">
+  <a href="https://devfolio.co/@Sreoshh">
     <img src="https://img.shields.io/badge/Devfolio-003D82?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio" />
   </a>
-  <a href="your-devpost-url">
+  <a href="https://devpost.com/iamsreoshi19?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
     <img src="https://img.shields.io/badge/DevPost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="DevPost" />
   </a>
-  <a href="your-leetcode-url">
+  <a href="https://leetcode.com/u/Sreoshi_Chakraborty/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="your-codechef-url">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  <a href="https://codeforces.com/profile/iamsreoshi19">
+    <img src="https://img.shields.io/badge/CodeForces-1F1C3F?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces" />
   </a>
 </p>
+
+> **Note:** Nothing to see on LinkedIn — all the action is happening in the links above! 😄
 
 ---
 
