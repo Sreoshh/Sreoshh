@@ -33,15 +33,6 @@ Just tryna fit in. Can do a bit of coding I guess — hence the non-relating-abs
 | **[Task Manager Android](https://github.com/Sreoshh/task-manager-android)** | A full-featured Android task management app with intuitive UI, real-time synchronization, and productivity-focused design. |
 | **[Chess Engine](https://github.com/Sreoshh/chess-engine)** | A sophisticated chess engine featuring AI-powered moves, strategic evaluation, and an interactive gameplay experience. |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreoshh&show_icons=true&theme=radical&hide_border=true" alt="Sreoshh's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreoshh&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
@@ -65,9 +56,6 @@ Just tryna fit in. Can do a bit of coding I guess — hence the non-relating-abs
   </a>
 </p>
 
-> **Note:** Nothing to see on LinkedIn — all the action is happening in the links above! 😄
-
 ---
 
-> _"Code is like humor. When you have to explain it, it's bad."_  
-> — Cory House
+
